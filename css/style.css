@@ -8,3 +8,12 @@ h1 {
 ul {
     width: 70%;
 }
+#cabecera {
+    background-color: yellowgreen;
+    padding: 10px;
+    text-align: right;
+}
+
+#cabecera img {
+    border-radius: 10px;
+}
